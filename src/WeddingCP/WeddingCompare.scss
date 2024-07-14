@@ -1,0 +1,35 @@
+.WeddingCompare {
+  display:inline;
+  vertical-align:5px;
+  margin-top:150px;
+  margin-left:200px;
+  font-size:23px;
+
+  table {
+      border-collapse: collapse;
+      width: 100%;
+  }
+
+  th,td {
+      border: 3px dashed black;
+      padding:80px;
+      text-align: center;
+  }
+  tr:nth-child(odd){background-color: pink;}
+  tr:nth-child(even){background-color: white;}
+  #title{
+    background-color: white;
+  }
+  a{
+    text-decoration: none;
+    color:black;
+  }
+  caption{
+    padding-bottom:10px;
+    font-size: 30px;
+    text-align: center;
+    font-weight:bold;
+    writing-mode:horizontal-tb;
+  }
+}
+
