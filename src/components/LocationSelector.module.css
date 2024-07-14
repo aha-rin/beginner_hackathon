@@ -1,0 +1,15 @@
+.location {
+    position: absolute;
+    left: 20%;
+    display: flex;
+    flex-basis: 30%;
+    align-items: center;
+    justify-content: baseline;
+    top: 20%;
+}
+
+select {
+    width: 100px;
+    height: 20px;
+    margin: 5px;
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Noto+Serif+KR:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100..900&family=Jua&family=Noto+Serif+KR&display=swap');
+
+
+.header {
+    position: absolute;
+    font-size: 400px;
+    font-weight: 500;
+    font-family: "Hahmlet", serif;
+    background-color: rgb(255, 225, 243);
+    text-align: center;
+    width: 100vw;
+    height: auto;
+    color: rgb(27, 16, 16);
+}
+
+h1 {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-family: "Noto Serif KR", serif;
+    z-index: 1;
+}
+
+.id {
+    position: absolute;
+    top: 18%;
+    right: 400px;
+    width: 200px;
+    height: 50px;
+}
+
+.pass {
+    position: absolute;
+    top: 24%;
+    right: 400px;
+    width: 200px;
+    height: 50px;
+}
+
+img {
+    position: absolute;
+    left: 300px;
+    top: 160px;
+    z-index: 0;
+
+}
+
+.login {
+    position: absolute;
+    top: 31%;
+    right: 405px;
+    width: 210px;
+    height: 50px;
+    background-color: whitesmoke;
+}
+
+.budget {
+    border: solid 8px rgb(240, 194, 231);
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 42%;
+    right: 330px;
+    background-color: rgb(255, 237, 248);
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 500;
+    align-content: center;
+    font-family: "Hahmlet", serif;
+    font-weight: 400;
+}
+
+.paper {
+    border: solid 8px rgb(240, 194, 231);
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 64%;
+    right: 330px;
+    background-color: rgb(255, 237, 248);
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 500;
+    align-content: center;
+    font-family: "Hahmlet", serif;
+    font-weight: 400;
+}

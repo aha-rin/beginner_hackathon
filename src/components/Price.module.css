@@ -1,0 +1,15 @@
+.Price {
+    position: absolute;
+    left: 45%;
+    display: flex;
+    flex-basis: 30%;
+    align-items: center;
+    justify-content: baseline;
+    top: 20%;
+}
+
+input {
+    width: 100px;
+    height: 15px;
+    margin: 5px;
+}

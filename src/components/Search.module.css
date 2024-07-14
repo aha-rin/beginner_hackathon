@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100..900&family=Jua&family=Noto+Sans+KR:wght@100..900&family=Noto+Serif+KR&display=swap');
+
+.SearchButton {
+    position: absolute;
+    right: 20%;
+    display: flex;
+    flex-basis: 30%;
+    align-items: center;
+    justify-content: baseline;
+    top: 22%;
+
+    border-radius: 4px;
+
+    padding: 3px;
+    width: 50px;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+.result {
+    background-color: rgb(255, 225, 243);
+    position: absolute;
+    top: 27%;
+    width: 80vw;
+    left: 10%;
+}
